@@ -24,3 +24,4 @@ A- **Yes.**
 ```
 Vm1wR1lWWXlTWGhXV0dST1ZsZG9WbGxVU2pSV2JGcHlWMjVrVldKSVFsaFdWelZQWVd4S2RHVkdhRnBXVm5CTVdWUkdXbVF5VGtaalJuQlhVbFJXYjFaclkzaFNiVlpIVkc1S2FsSXdXbGhXYWtaTFZsWmFTR1JIUm1oTlZscDFWVVpSZDFCUlBUMD0=
 ```
+[![HitCount](http://hits.dwyl.com/macedonga/macedonga.svg)](http://hits.dwyl.com/macedonga/macedonga)
