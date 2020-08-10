@@ -1,16 +1,26 @@
+## Wait, it's all unfinished projects or projects that are basically useless?
+Always has been
+
 ### Hi there 👋
+My name is Marco, I am a 14 years old that does stuff that is basically useless, but at least I learn something doing it!<br>
+*(even if I will forget it the day later)*
 
-<!--
-**macedonga/macedonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What can I do?
+I can code in C#, Python, Node.JS and PHP. I can use Photoshop (and Gimp), InDesign, Premiere, Blender, and KeyShot.
 
-Here are some ideas to get you started:
+### Q&A
+Q- **Are you stupid?**<br>
+A- **Yes.**<br>
+Q- **What is the sinister common name of Amanita phalloides, the most poisonous of British mushrooms, accounting for at least 90% of fungus-related fatalities?**<br>
+A- **Yes.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I doing now?
+<a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="500" height="125" /></a>
+
+### My GitHub stats
+[![macedonga's github stats](https://github-readme-stats.vercel.app/api?username=macedonga)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedonga)](https://github.com/anuraghazra/github-readme-stats)
+
+```
+Vm1wR1lWWXlTWGhXV0dST1ZsZG9WbGxVU2pSV2JGcHlWMjVrVldKSVFsaFdWelZQWVd4S2RHVkdhRnBXVm5CTVdWUkdXbVF5VGtaalJuQlhVbFJXYjFaclkzaFNiVlpIVkc1S2FsSXdXbGhXYWtaTFZsWmFTR1JIUm1oTlZscDFWVVpSZDFCUlBUMD0=
+```
