@@ -18,7 +18,7 @@ A- **Yes.**
 <a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="500" height="125" /></a>
 
 ### My GitHub stats
-[![macedonga's github stats](https://github-readme-stats.vercel.app/api?username=macedonga)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![macedonga's github stats](https://github-readme-stats.vercel.app/api?username=macedonga)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedonga)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
