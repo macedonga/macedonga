@@ -2,7 +2,7 @@
 Always has been
 
 ### Hi there 👋
-My name is Marco, I am a 14 years old that does stuff that is basically useless, but at least I learn something doing it!<br>
+My name is Marco, I am a 14 years old that creates stuff that is basically useless, but at least I learn something doing it!<br>
 *(even if I will forget it the day later)*
 
 ### What can I do?
