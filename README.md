@@ -17,6 +17,9 @@ A- **Yes.**
 ### What am I doing now?
 <a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="500" height="125" /></a>
 
+### My trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=macedonga)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### My GitHub stats
 [![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga)]()
 [![macedonga's github stats](http://readme.stats.macedon.ga/api?username=macedonga)]()
