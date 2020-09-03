@@ -9,7 +9,7 @@ My name is Marco, I am a 14 years old that creates stuff that is basically usele
 I can code in C#, Python, Node.JS and PHP. I can use Photoshop (and Gimp), InDesign, Premiere, Blender, and KeyShot.
 
 ### What am I working on now?
-A [multi-purpose discord](https://github.com/macedonga/macedonga.discord.bot.utils) bot with [dashboard](https://github.com/macedonga/bot.dashboard).
+A [multi-purpose discord](https://github.com/macedonga/macedonga.discord.bot.utils) bot with a [dashboard](https://github.com/macedonga/bot.dashboard).
 
 ### Q&A
 Q- **Are you stupid?**<br>
