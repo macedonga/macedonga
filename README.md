@@ -19,8 +19,8 @@ A- **Yes.**
 
 ### Stuff
 [![trophy](https://github-profile-trophy.vercel.app/?username=macedonga&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga)]()
-[![macedonga's github stats](http://readme.stats.macedon.ga/api?username=macedonga)]()
+[![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga&layout=compact)]()
+<img height="170" src="http://readme.stats.macedon.ga/api?username=macedonga&count_private=true&include_all_commits=true" />
 <a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="40%" /></a>
 
 ```
