@@ -17,15 +17,11 @@ A- **Yes.**<br>
 Q- **What is the sinister common name of Amanita phalloides, the most poisonous of British mushrooms, accounting for at least 90% of fungus-related fatalities?**<br>
 A- **Yes.**
 
-### What am I doing now?
-<a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="500" height="125" /></a>
-
-### My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=macedonga)](https://github.com/ryo-ma/github-profile-trophy)
-
-### My GitHub stats
+### Stuff
+[![trophy](https://github-profile-trophy.vercel.app/?username=macedonga&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga)]()
 [![macedonga's github stats](http://readme.stats.macedon.ga/api?username=macedonga)]()
+<a href="https://actions.macedon.ga"><img  alt="My custom status" src="https://actions.macedon.ga/get?uid=wmwjpzeplngkggbpimypbupyuujtwtrp" width="40%" /></a>
 
 ```
 Vm1wR1lWWXlTWGhXV0dST1ZsZG9WbGxVU2pSV2JGcHlWMjVrVldKSVFsaFdWelZQWVd4S2RHVkdhRnBXVm5CTVdWUkdXbVF5VGtaalJuQlhVbFJXYjFaclkzaFNiVlpIVkc1S2FsSXdXbGhXYWtaTFZsWmFTR1JIUm1oTlZscDFWVVpSZDFCUlBUMD0=
