@@ -17,7 +17,7 @@ A- **Yes.**
 ### Stuff
 [![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga&layout=compact)]()
 <img height="170" src="http://readme.stats.macedon.ga/api?username=macedonga&count_private=true&include_all_commits=true" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=macedonga)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub metrics](https://metrics.lecoq.io/macedonga?template=terminal&pagespeed=1&isocalendar=1&languages=1&followup=1)](https://github.com/lowlighter/metrics)
 
 ```
 Vm1wR1lWWXlTWGhXV0dST1ZsZG9WbGxVU2pSV2JGcHlWMjVrVldKSVFsaFdWelZQWVd4S2RHVkdhRnBXVm5CTVdWUkdXbVF5VGtaalJuQlhVbFJXYjFaclkzaFNiVlpIVkc1S2FsSXdXbGhXYWtaTFZsWmFTR1JIUm1oTlZscDFWVVpSZDFCUlBUMD0=
