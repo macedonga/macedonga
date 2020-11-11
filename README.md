@@ -14,9 +14,7 @@ A- **Yes.**<br>
 Q- **What is the sinister common name of Amanita phalloides, the most poisonous of British mushrooms, accounting for at least 90% of fungus-related fatalities?**<br>
 A- **Yes.**
 
-### Stuff
-[![Top Langs](http://readme.stats.macedon.ga/api/top-langs/?username=macedonga&layout=compact)]()
-<img height="170" src="http://readme.stats.macedon.ga/api?username=macedonga&count_private=true&include_all_commits=true" />
+### Stats
 [![GitHub metrics](https://metrics.lecoq.io/macedonga?pagespeed=1&isocalendar=1&languages=1&followup=1)](https://github.com/lowlighter/metrics)
 
 ```
