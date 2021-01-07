@@ -18,6 +18,6 @@ A- **Yes.**
 [![GitHub metrics](https://metrics.lecoq.io/macedonga?pagespeed=1&isocalendar=1&languages=1&followup=1)](https://github.com/lowlighter/metrics)
 
 ```
-Vm1wR1lWWXlTWGhXV0dST1ZsZG9WbGxVU2pSV2JGcHlWMjVrVldKSVFsaFdWelZQWVd4S2RHVkdhRnBXVm5CTVdWUkdXbVF5VGtaalJuQlhVbFJXYjFaclkzaFNiVlpIVkc1S2FsSXdXbGhXYWtaTFZsWmFTR1JIUm1oTlZscDFWVVpSZDFCUlBUMD0=
+aHR0cHM6Ly9zLm1jZG4uZ2EvZG9udC15b3UtZGFyZS1jbGljay10aGlz
 ```
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacedonga%2Fmacedonga)](https://hits.seeyoufarm.com)
