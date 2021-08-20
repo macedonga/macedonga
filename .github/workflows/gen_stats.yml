@@ -35,7 +35,6 @@ jobs:
       - name: Compile the README.md file
         run: |
           cat NEOFETCH.md STATS.md > README.md
-          echo -e "\n![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)" >> README.md
           
       - name: Commit & Push changes
         run: |
