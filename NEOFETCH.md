@@ -17,7 +17,7 @@ $ neofetch
         :+++-    ++++     -++++++-     ++++::=+++++:                       Twitter: @_macedonga_
         :+++-    ++++       :++-       +++++++++=:.                        Reddit: u/Macedonga
         :+=:     ++++                  ++++++-:                            
-               .-++++                  ++=:.      :.                       Projects
+               .-++++                  ++=:.      :.                       projects
             :-++++++=                  .      .-+**:                       -------------------
          :=++++++=.                        :=+++**+:                       Caards: https://caards.me
           .-=+++++=-.                  .-=++++*+-.                         noice.link: https://noice.link
