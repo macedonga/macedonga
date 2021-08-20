@@ -40,5 +40,3 @@ HTML         [----------] (3.68%)  15 hrs 10 mins
 CSS          [----------] (3.29%)  13 hrs 34 mins     
 TypeScript   [----------] (2.51%)  10 hrs 22 mins     
 ```
-
-![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)
