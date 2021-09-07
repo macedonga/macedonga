@@ -3,7 +3,7 @@ $ neofetch
 
                             :--:                                           macedonga@local
                         .:=++++++=-.                                       -------------------
-                     :-=+++++=-++++++-:                                    Uptime: 15 years
+                     :-=+++++=-++++++-:                                    Uptime: 16 years
                  .:=+++++=-.    .-=+++++=-.                                Code plugins: Node.JS, C#, PHP, and 4 others...
               .-=++++=-:            :-++++++-:                             OS: Windows 10, Manjaro
           .:=+++++=-.                  .-=+++++=:.                         Editor: VS Code, Visual Studio
@@ -12,7 +12,7 @@ $ neofetch
         :+++-    :-+++:              :+++=:    =+++:                       contact information
         :+++-    +++++++:          :+++++++    =+++:                       -------------------
         :+++-    +++++++++:      :+++++++++    =+++:                       Website: marco.win
-        :+++-    ++++.-+++++:  :+++++-:++++    =+++:                       Discord: macedonga#5797
+        :+++-    ++++.-+++++:  :+++++-:++++    =+++:                       Discord: macedonga#1234
         :+++-    ++++   -++++++++++-.  ++++    =+++:                       GitHub: macedonga
         :+++-    ++++     -++++++-     ++++::=+++++:                       Twitter: @_macedonga_
         :+++-    ++++       :++-       +++++++++=:.                        Reddit: u/Macedonga
