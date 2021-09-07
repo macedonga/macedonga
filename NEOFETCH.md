@@ -3,7 +3,7 @@ $ neofetch
 
                             :--:                                           macedonga@local
                         .:=++++++=-.                                       -------------------
-                     :-=+++++=-++++++-:                                    Uptime: 15 years
+                     :-=+++++=-++++++-:                                    Uptime: 16 years
                  .:=+++++=-.    .-=+++++=-.                                Code plugins: Node.JS, C#, PHP, and 4 others...
               .-=++++=-:            :-++++++-:                             OS: Windows 10, Manjaro
           .:=+++++=-.                  .-=+++++=:.                         Editor: VS Code, Visual Studio
