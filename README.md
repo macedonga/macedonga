@@ -5,7 +5,7 @@ $ neofetch
                         .:=++++++=-.                                       -------------------
                      :-=+++++=-++++++-:                                    Uptime: 16 years
                  .:=+++++=-.    .-=+++++=-.                                Code plugins: Node.JS, C#, PHP, and 4 others...
-              .-=++++=-:            :-++++++-:                             OS: Windows 11, Manjaro
+              .-=++++=-:            :-++++++-:                             OS: Windows 10, Manjaro
           .:=+++++=-.                  .-=+++++=:.                         Editor: VS Code, Visual Studio
         .=+++++-:.                         :=++++++.                       Home: /home/mcecc
         .+++=.      .                  .      .=+++:                       
