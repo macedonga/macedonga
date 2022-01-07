@@ -22,8 +22,8 @@ $ neofetch
          :=++++++=.                        :=+++**+:             Caards: https://caards.me
           .-=+++++=-.                  .-=++++*+-.               noice.link: https://noice.link
              .:=++++++-:            :-++++++=-.                  ask.rip: https://ask.rip
-                 .-=+++++=:.    .:=++++++-:                      
-                     :=++++++--++++++=:.                         
+                 .-=+++++=:.    .:=++++++-:                      earn.wtf: https://earn.wtf
+                     :=++++++--++++++=:.                         Ariabyte: https://ariabyte.com
                         .-++++++++-:                             
                           .:==-.                
                           
