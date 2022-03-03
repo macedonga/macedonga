@@ -3,10 +3,10 @@ $ stats
 
 languages                                             editors
 ---------                                             -------
-JavaScript   [########--] (76.09%) 572 hrs 9 mins     VS Code      [#########-] (92.7%)  697 hrs 4 mins
-Other        [#---------] (8.08%)  60 hrs 45 mins     Browser      [#---------] (7.05%)  53 hrs 1 min
-CSS          [----------] (4.26%)  32 hrs             VS 2019      [----------] (0.25%)  1 hr 51 mins
-EJS          [----------] (3.46%)  26 hrs 2 mins      
-HTML         [----------] (2.47%)  18 hrs 32 mins     
-JSON         [----------] (1.82%)  13 hrs 42 mins     
+JavaScript   [########--] (76.25%) 577 hrs 51 mins    VS Code      [#########-] (92.76%) 703 hrs
+Other        [#---------] (8.02%)  60 hrs 45 mins     Browser      [#---------] (7%)     53 hrs 1 min
+CSS          [----------] (4.25%)  32 hrs 11 mins     VS 2019      [----------] (0.25%)  1 hr 51 mins
+EJS          [----------] (3.44%)  26 hrs 2 mins      
+HTML         [----------] (2.45%)  18 hrs 32 mins     
+JSON         [----------] (1.81%)  13 hrs 44 mins     
 ```
