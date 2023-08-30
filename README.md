@@ -3,7 +3,7 @@ $ neofetch
 
                             :--:                                 macedonga@local
                         .:=++++++=-.                             -------------------
-                     :-=+++++=-++++++-:                          Uptime: 17 years
+                     :-=+++++=-++++++-:                          Uptime: 18 years
                  .:=+++++=-.    .-=+++++=-.                      Code plugins: Node.JS, C#, PHP, and 4 others...
               .-=++++=-:            :-++++++-:                   OS: Windows 11, Manjaro, Hannah Montana Linux
           .:=+++++=-.                  .-=+++++=:.               Editor: VS Code, Visual Studio
@@ -11,17 +11,17 @@ $ neofetch
         .+++=.      .                  .      .=+++:             
         :+++-    :-+++:              :+++=:    =+++:             contact information
         :+++-    +++++++:          :+++++++    =+++:             -------------------
-        :+++-    +++++++++:      :+++++++++    =+++:             Website: marco.win
-        :+++-    ++++.-+++++:  :+++++-:++++    =+++:             Discord: macedonga#6320
-        :+++-    ++++   -++++++++++-.  ++++    =+++:             GitHub: macedonga
+        :+++-    +++++++++:      :+++++++++    =+++:             Website: www.marco.win
+        :+++-    ++++.-+++++:  :+++++-:++++    =+++:             Discord: @macedonga
+        :+++-    ++++   -++++++++++-.  ++++    =+++:             GitHub: @macedonga
         :+++-    ++++     -++++++-     ++++::=+++++:             Twitter: @_macedonga_
-        :+++-    ++++       :++-       +++++++++=:.              Reddit: u/Macedonga
+        :+++-    ++++       :++-       +++++++++=:.              LinkedIn: /in/macedonga
         :+=:     ++++                  ++++++-:                  
                .-++++                  ++=:.      :.             projects
             :-++++++=                  .      .-+**:             -------------------
-         :=++++++=.                        :=+++**+:             Caards: https://caards.me
-          .-=+++++=-.                  .-=++++*+-.               ask.rip: https://ask.rip
-             .:=++++++-:            :-++++++=-.                  Ariabyte: https://ariabyte.com
+         :=++++++=.                        :=+++**+:             View them on:
+          .-=+++++=-.                  .-=++++*+-.               https://www.marco.win/projects
+             .:=++++++-:            :-++++++=-.                  
                  .-=+++++=:.    .:=++++++-:                      
                      :=++++++--++++++=:.                         
                         .-++++++++-:                             
