@@ -1,5 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=19750900)
-
 ```console
 $ neofetch
 
@@ -30,3 +28,4 @@ $ neofetch
                           .:==-.                
                           
 ```
+![](https://hit.yhype.me/github/profile?user_id=19750900)
