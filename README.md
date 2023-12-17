@@ -14,7 +14,7 @@ $ neofetch
         :+++-    +++++++++:      :+++++++++    =+++:             Website: www.marco.win
         :+++-    ++++.-+++++:  :+++++-:++++    =+++:             Discord: @macedonga
         :+++-    ++++   -++++++++++-.  ++++    =+++:             GitHub: @macedonga
-        :+++-    ++++     -++++++-     ++++::=+++++:             Twitter: @_macedonga_
+        :+++-    ++++     -++++++-     ++++::=+++++:             X (formerly Twitter): @_macedonga_
         :+++-    ++++       :++-       +++++++++=:.              LinkedIn: /in/macedonga
         :+=:     ++++                  ++++++-:                  
                .-++++                  ++=:.      :.             projects
